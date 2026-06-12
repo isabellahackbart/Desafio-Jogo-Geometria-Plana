@@ -14,6 +14,9 @@ Fixar os conceitos de Geometria Plana de forma dinâmica e gamificada, permitind
 | 🟡 Médio | [Figuras Planas — Médio](https://wordwall.net/pt/resource/114759920) |
 | 🔴 Difícil | [Figuras Planas — Difícil](https://wordwall.net/pt/resource/114759161) |
 
+📄Link do Video
+https://youtu.be/OA3GvF6hY4M?si=jqqKSr-UKqh68BsD
+
  📚 Conteúdo
  Nível Fácil — Elementos Básicos da Geometria
 - Ponto
