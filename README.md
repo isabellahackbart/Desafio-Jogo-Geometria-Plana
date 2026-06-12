@@ -43,7 +43,7 @@ Nível Médio — Polígonos Fundamentais
 - **Sequência didática:** Aplique um jogo por aula — Fácil na introdução, Médio nos polígonos e Difícil na circunferência.
     
 👥 Equipe
-Isabella Hackbart, Igor Buss, Gustavo Simonassi (gerente) e Asafe Folador
+Isabella Hackbart, Arthur Intra, Igor Buss, Gustavo Simonassi (gerente) e Asafe Folador
 
 📄 Licença
 Projeto acadêmico — Uso educacional.
